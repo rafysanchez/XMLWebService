@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://localhost/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://localhost/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://localhost/">
+      <s:element name="insertados">
+        <s:complexType />
+      </s:element>
+      <s:element name="insertadosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="insertadosResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="erroneos">
+        <s:complexType />
+      </s:element>
+      <s:element name="erroneosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="erroneosResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Proce_insertar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="texto" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="insertados" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Proce_insertarResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="Proce_erroneos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="textos2" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="erroneos" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Proce_erroneosResponse">
+        <s:complexType />
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="insertadosSoapIn">
+    <wsdl:part name="parameters" element="tns:insertados" />
+  </wsdl:message>
+  <wsdl:message name="insertadosSoapOut">
+    <wsdl:part name="parameters" element="tns:insertadosResponse" />
+  </wsdl:message>
+  <wsdl:message name="erroneosSoapIn">
+    <wsdl:part name="parameters" element="tns:erroneos" />
+  </wsdl:message>
+  <wsdl:message name="erroneosSoapOut">
+    <wsdl:part name="parameters" element="tns:erroneosResponse" />
+  </wsdl:message>
+  <wsdl:message name="Proce_insertarSoapIn">
+    <wsdl:part name="parameters" element="tns:Proce_insertar" />
+  </wsdl:message>
+  <wsdl:message name="Proce_insertarSoapOut">
+    <wsdl:part name="parameters" element="tns:Proce_insertarResponse" />
+  </wsdl:message>
+  <wsdl:message name="Proce_erroneosSoapIn">
+    <wsdl:part name="parameters" element="tns:Proce_erroneos" />
+  </wsdl:message>
+  <wsdl:message name="Proce_erroneosSoapOut">
+    <wsdl:part name="parameters" element="tns:Proce_erroneosResponse" />
+  </wsdl:message>
+  <wsdl:portType name="Service1Soap">
+    <wsdl:operation name="insertados">
+      <wsdl:input message="tns:insertadosSoapIn" />
+      <wsdl:output message="tns:insertadosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="erroneos">
+      <wsdl:input message="tns:erroneosSoapIn" />
+      <wsdl:output message="tns:erroneosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Proce_insertar">
+      <wsdl:input message="tns:Proce_insertarSoapIn" />
+      <wsdl:output message="tns:Proce_insertarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Proce_erroneos">
+      <wsdl:input message="tns:Proce_erroneosSoapIn" />
+      <wsdl:output message="tns:Proce_erroneosSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="Service1Soap" type="tns:Service1Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="insertados">
+      <soap:operation soapAction="http://localhost/insertados" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="erroneos">
+      <soap:operation soapAction="http://localhost/erroneos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Proce_insertar">
+      <soap:operation soapAction="http://localhost/Proce_insertar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Proce_erroneos">
+      <soap:operation soapAction="http://localhost/Proce_erroneos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="Service1Soap12" type="tns:Service1Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="insertados">
+      <soap12:operation soapAction="http://localhost/insertados" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="erroneos">
+      <soap12:operation soapAction="http://localhost/erroneos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Proce_insertar">
+      <soap12:operation soapAction="http://localhost/Proce_insertar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Proce_erroneos">
+      <soap12:operation soapAction="http://localhost/Proce_erroneos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="Service1Soap" binding="tns:Service1Soap">
+      <soap:address location="http://localhost:53686/Service1.asmx" />
+    </wsdl:port>
+    <wsdl:port name="Service1Soap12" binding="tns:Service1Soap12">
+      <soap12:address location="http://localhost:53686/Service1.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,20 @@
+1 ) crear la tablita donde se almacenaran los datos
+    que se mostraran en la grafica.
+
+    estado_dato
+    cantidad
+
+1.1) Crear dos procedimientos almacenados uno que se llame
+     proced_insertar y el otro proced_erroneos
+     cada uno de los procedimientos recibira dos parametros
+     uno de tipo String y el otro de tipo entero
+
+2) crear el webservice que leera el xml con los insertado o    erroneos
+
+3) Dentro del Web Service crear dos metodos que lean los     insertados y otro que lea los erroneos
+
+
+
+4)Dentro del web crear dos metodos que llamen a los procedimientos almacenados antes creados.
+
+

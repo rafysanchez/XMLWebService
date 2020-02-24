@@ -1,0 +1,4999 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<factura>
+  <detalle>
+    <Facturaid>1</Facturaid>
+    <Cliente>Carolina Escolan</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>18/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:49 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>1</Facturaid>
+    <Cliente>Carolina Escolan</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>18/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>error</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>2</Facturaid>
+    <Cliente>Kevin Sánchez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>18/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>2</Facturaid>
+    <Cliente>Kevin Sánchez</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>18/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>2</Facturaid>
+    <Cliente>Kevin Sánchez</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>18/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>3</Facturaid>
+    <Cliente>Pablo Torres</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>18/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>3</Facturaid>
+    <Cliente>Pablo Torres</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>18/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>3</Facturaid>
+    <Cliente>Pablo Torres</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>18/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>4</Facturaid>
+    <Cliente>Bernardo Jimenez</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>18/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>5</Facturaid>
+    <Cliente>Jessica Villalobos</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>18/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>6</Facturaid>
+    <Cliente>Helen Herrera</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>18/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>7</Facturaid>
+    <Cliente>Monica Montes</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>19/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>8</Facturaid>
+    <Cliente>Jennifer Ramirez</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>20/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>9</Facturaid>
+    <Cliente>Yubini Villalta</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>21/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>10</Facturaid>
+    <Cliente>Erick Diaz</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>22/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>11</Facturaid>
+    <Cliente>Julio Caceres</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>23/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>12</Facturaid>
+    <Cliente>Juan Sibrian</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>24/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>13</Facturaid>
+    <Cliente>Roberto Varela</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>25/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>14</Facturaid>
+    <Cliente>Jose Guevara</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>26/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>15</Facturaid>
+    <Cliente>Ricardo Dueñas</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>27/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>16</Facturaid>
+    <Cliente>Maria Zuniga</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>28/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>17</Facturaid>
+    <Cliente>Manuel Urrutia</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>29/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>18</Facturaid>
+    <Cliente>Jorge Villanueva</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>30/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>19</Facturaid>
+    <Cliente>Edwin Morales</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>31/03/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>20</Facturaid>
+    <Cliente>Milagro Elias</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>01/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>21</Facturaid>
+    <Cliente>Wendy Torres</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>02/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>22</Facturaid>
+    <Cliente>Liana Lainez</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>03/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>23</Facturaid>
+    <Cliente>Karla Mendez</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>04/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>24</Facturaid>
+    <Cliente>Maritza Rivas</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>05/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>25</Facturaid>
+    <Cliente>Julia Leiva</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>06/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>26</Facturaid>
+    <Cliente>Fernando Huezo</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>07/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>27</Facturaid>
+    <Cliente>Walter Morales</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>08/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>28</Facturaid>
+    <Cliente>Javier Murillo</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>09/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>29</Facturaid>
+    <Cliente>Alexis Mata</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>10/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>30</Facturaid>
+    <Cliente>Yanira Vasquez</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>11/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:50 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>31</Facturaid>
+    <Cliente>Ana Sarmiento</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>12/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>32</Facturaid>
+    <Cliente>Marielos Garcia</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>13/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>33</Facturaid>
+    <Cliente>Carolina Avendaño</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>14/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>34</Facturaid>
+    <Cliente>Jacqueline Vega</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>15/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>35</Facturaid>
+    <Cliente>Alberto Muñoz</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>16/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>36</Facturaid>
+    <Cliente>Mara Espinoza</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>17/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>37</Facturaid>
+    <Cliente>Oscar Quintanilla</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>18/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>38</Facturaid>
+    <Cliente>Lorena Mena</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>19/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>39</Facturaid>
+    <Cliente>Alfonso Guevara</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>20/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>40</Facturaid>
+    <Cliente>Rene Cordova</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>21/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>41</Facturaid>
+    <Cliente>Carolina Guillen</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>22/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>42</Facturaid>
+    <Cliente>Rogelio Rivas</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>23/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>43</Facturaid>
+    <Cliente>Celeste Echeverria</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>24/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>44</Facturaid>
+    <Cliente>Roberto Mendez</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>25/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>45</Facturaid>
+    <Cliente>Juan Zavaleta</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>26/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>46</Facturaid>
+    <Cliente>Eduardo Grajeda</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>27/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>47</Facturaid>
+    <Cliente>Daniel Carranza</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>28/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>48</Facturaid>
+    <Cliente>Diego Callejas</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>29/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>49</Facturaid>
+    <Cliente>Daniela Montalvo</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>30/04/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>50</Facturaid>
+    <Cliente>Elena Vanegas</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>01/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>51</Facturaid>
+    <Cliente>Karen Lopez</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>02/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>52</Facturaid>
+    <Cliente>Guillermo Deras</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>03/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>53</Facturaid>
+    <Cliente>Miguel Argueta</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>04/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>54</Facturaid>
+    <Cliente>Veronica Morales</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>05/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>55</Facturaid>
+    <Cliente>Pedro Tablas</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>06/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>56</Facturaid>
+    <Cliente>Alejandra Escolan</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>07/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>57</Facturaid>
+    <Cliente>Salvador Villalta</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>08/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>58</Facturaid>
+    <Cliente>Lidia Peña</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>09/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>59</Facturaid>
+    <Cliente>Iveth Diaz</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>10/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>60</Facturaid>
+    <Cliente>Virginia Escolan</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>11/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>61</Facturaid>
+    <Cliente>Melvin Sánchez</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>12/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>62</Facturaid>
+    <Cliente>Omar Torres</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>13/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>63</Facturaid>
+    <Cliente>Alexander Jimenez</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>14/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>64</Facturaid>
+    <Cliente>Yanira Villalobos</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>15/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>65</Facturaid>
+    <Cliente>Mabel Herrera</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>16/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>66</Facturaid>
+    <Cliente>Yamileth Montes</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>17/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>67</Facturaid>
+    <Cliente>Veralis Ramirez</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>18/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>68</Facturaid>
+    <Cliente>Moises Villalta</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>19/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>69</Facturaid>
+    <Cliente>David Diaz</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>20/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>70</Facturaid>
+    <Cliente>Alberto Caceres</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>21/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>71</Facturaid>
+    <Cliente>Jaime Sibrian</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>22/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>72</Facturaid>
+    <Cliente>Jovel Varela</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>23/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>73</Facturaid>
+    <Cliente>Angel Guevara</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>24/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>74</Facturaid>
+    <Cliente>Alfredo Dueñas</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>25/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>75</Facturaid>
+    <Cliente>Fernanda Zuniga</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>26/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>76</Facturaid>
+    <Cliente>Ricardo Urrutia</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>27/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:51 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>77</Facturaid>
+    <Cliente>Carlos Villanueva</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>28/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:52 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>78</Facturaid>
+    <Cliente>Juan Morales</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>29/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:52 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>79</Facturaid>
+    <Cliente>Solieth Elias</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>30/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:52 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>80</Facturaid>
+    <Cliente>Nohemy Torres</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>31/05/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:52 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>81</Facturaid>
+    <Cliente>Ruth Lainez</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>01/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:52 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>82</Facturaid>
+    <Cliente>yasmin Mendez</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>02/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:52 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>83</Facturaid>
+    <Cliente>Mylene Rivas</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>03/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:52 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>84</Facturaid>
+    <Cliente>Josefina Leiva</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>04/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:52 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>85</Facturaid>
+    <Cliente>Adrian Huezo</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>05/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:52 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>86</Facturaid>
+    <Cliente>Walter Morales</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>06/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:52 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>87</Facturaid>
+    <Cliente>Ismael Murillo</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>07/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:52 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>88</Facturaid>
+    <Cliente>Donaris Mata</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>08/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:52 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>89</Facturaid>
+    <Cliente>Alba Vasquez</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>09/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:52 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>90</Facturaid>
+    <Cliente>Maria Sarmiento</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>10/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:52 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>91</Facturaid>
+    <Cliente>Angel Garcia</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>11/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:52 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>92</Facturaid>
+    <Cliente>Patricia Avendaño</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>12/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:52 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>93</Facturaid>
+    <Cliente>Beatriz Vega</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>13/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:52 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>94</Facturaid>
+    <Cliente>Peter Muñoz</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>14/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:52 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>95</Facturaid>
+    <Cliente>Mara Espinoza</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>15/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:52 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>96</Facturaid>
+    <Cliente>Carolina Escolan</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>16/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:53 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>97</Facturaid>
+    <Cliente>Kevin Sánchez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>17/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:53 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>98</Facturaid>
+    <Cliente>Pablo Torres</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>18/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:53 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>99</Facturaid>
+    <Cliente>Bernardo Jimenez</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>19/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:53 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>100</Facturaid>
+    <Cliente>Jessica Villalobos</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>20/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:53 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>101</Facturaid>
+    <Cliente>
+    </Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>21/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:53 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>Error</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>102</Facturaid>
+    <Cliente>Pablo Torres</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>22/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:53 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>103</Facturaid>
+    <Cliente>Pablo Torres</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>23/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:53 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>104</Facturaid>
+    <Cliente>Bernardo Jimenez</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>24/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:53 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>105</Facturaid>
+    <Cliente>Jessica Villalobos</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>25/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:53 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>106</Facturaid>
+    <Cliente>Helen Herrera</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>26/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:53 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>107</Facturaid>
+    <Cliente>Monica Montes</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>27/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:53 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>108</Facturaid>
+    <Cliente>Jennifer Ramirez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>28/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:53 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>109</Facturaid>
+    <Cliente>Yubini Villalta</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>29/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:53 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>110</Facturaid>
+    <Cliente>Erick Diaz</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>30/06/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:53 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>111</Facturaid>
+    <Cliente>Julio Caceres</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>01/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:53 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>112</Facturaid>
+    <Cliente>Juan Sibrian</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>02/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>113</Facturaid>
+    <Cliente>Roberto Varela</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>03/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>114</Facturaid>
+    <Cliente>Jose Guevara</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>04/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>115</Facturaid>
+    <Cliente>Ricardo Dueñas</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>05/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>116</Facturaid>
+    <Cliente>Maria Zuniga</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>06/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>117</Facturaid>
+    <Cliente>Manuel Urrutia</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>07/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>118</Facturaid>
+    <Cliente>Jorge Villanueva</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>08/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>119</Facturaid>
+    <Cliente>Edwin Morales</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>09/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>120</Facturaid>
+    <Cliente>Milagro Elias</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>10/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>121</Facturaid>
+    <Cliente>Wendy Torres</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>11/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>122</Facturaid>
+    <Cliente>Liana Lainez</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>12/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>123</Facturaid>
+    <Cliente>Karla Mendez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>13/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>124</Facturaid>
+    <Cliente>Maritza Rivas</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>14/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>125</Facturaid>
+    <Cliente>Julia Leiva</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>15/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>126</Facturaid>
+    <Cliente>Fernando Huezo</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>16/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>127</Facturaid>
+    <Cliente>Walter Morales</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>17/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>128</Facturaid>
+    <Cliente>Javier Murillo</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>18/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>129</Facturaid>
+    <Cliente>Alexis Mata</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>19/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>130</Facturaid>
+    <Cliente>Yanira Vasquez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>20/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>131</Facturaid>
+    <Cliente>Ana Sarmiento</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>21/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>132</Facturaid>
+    <Cliente>Marielos Garcia</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>22/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>133</Facturaid>
+    <Cliente>Carolina Avendaño</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>23/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>134</Facturaid>
+    <Cliente>Jacqueline Vega</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>24/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>135</Facturaid>
+    <Cliente>Alberto Muñoz</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>25/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>136</Facturaid>
+    <Cliente>Mara Espinoza</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>26/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>137</Facturaid>
+    <Cliente>Oscar Quintanilla</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>27/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>138</Facturaid>
+    <Cliente>Lorena Mena</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>28/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>139</Facturaid>
+    <Cliente>Alfonso Guevara</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>29/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>140</Facturaid>
+    <Cliente>Rene Cordova</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>30/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>141</Facturaid>
+    <Cliente>Carolina Guillen</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>31/07/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>142</Facturaid>
+    <Cliente>Rogelio Rivas</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>01/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>143</Facturaid>
+    <Cliente>Celeste Echeverria</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>02/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>144</Facturaid>
+    <Cliente>Roberto Mendez</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>03/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>145</Facturaid>
+    <Cliente>Juan Zavaleta</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>04/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>146</Facturaid>
+    <Cliente>Eduardo Grajeda</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>05/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>147</Facturaid>
+    <Cliente>Daniel Carranza</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>06/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>148</Facturaid>
+    <Cliente>Diego Callejas</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>07/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>149</Facturaid>
+    <Cliente>Daniela Montalvo</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>08/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>150</Facturaid>
+    <Cliente>Elena Vanegas</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>09/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>151</Facturaid>
+    <Cliente>Karen Lopez</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>10/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>152</Facturaid>
+    <Cliente>Guillermo Deras</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>11/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>153</Facturaid>
+    <Cliente>Miguel Argueta</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>12/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>154</Facturaid>
+    <Cliente>Veronica Morales</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>13/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:54 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>155</Facturaid>
+    <Cliente>Pedro Tablas</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>14/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>156</Facturaid>
+    <Cliente>Alejandra Escolan</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>15/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>157</Facturaid>
+    <Cliente>Salvador Villalta</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>16/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>158</Facturaid>
+    <Cliente>Lidia Peña</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>17/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>159</Facturaid>
+    <Cliente>Iveth Diaz</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>18/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>160</Facturaid>
+    <Cliente>Virginia Escolan</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>19/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>161</Facturaid>
+    <Cliente>Melvin Sánchez</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>20/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>162</Facturaid>
+    <Cliente>Omar Torres</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>21/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>163</Facturaid>
+    <Cliente>Alexander Jimenez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>22/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>164</Facturaid>
+    <Cliente>Yanira Villalobos</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>23/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>165</Facturaid>
+    <Cliente>Mabel Herrera</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>24/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>166</Facturaid>
+    <Cliente>Yamileth Montes</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>25/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>167</Facturaid>
+    <Cliente>Veralis Ramirez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>26/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>168</Facturaid>
+    <Cliente>Moises Villalta</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>27/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>169</Facturaid>
+    <Cliente>David Diaz</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>28/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>170</Facturaid>
+    <Cliente>Alberto Caceres</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>29/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>171</Facturaid>
+    <Cliente>Jaime Sibrian</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>30/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>172</Facturaid>
+    <Cliente>Jovel Varela</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>31/08/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>173</Facturaid>
+    <Cliente>Angel Guevara</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>01/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>174</Facturaid>
+    <Cliente>Alfredo Dueñas</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>02/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>175</Facturaid>
+    <Cliente>Fernanda Zuniga</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>03/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>176</Facturaid>
+    <Cliente>Ricardo Urrutia</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>04/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>177</Facturaid>
+    <Cliente>Carlos Villanueva</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>05/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>178</Facturaid>
+    <Cliente>Juan Morales</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>06/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>179</Facturaid>
+    <Cliente>Solieth Elias</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>07/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>180</Facturaid>
+    <Cliente>Nohemy Torres</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>08/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>181</Facturaid>
+    <Cliente>Ruth Lainez</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>09/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>182</Facturaid>
+    <Cliente>yasmin Mendez</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>10/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>183</Facturaid>
+    <Cliente>Mylene Rivas</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>11/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>184</Facturaid>
+    <Cliente>Josefina Leiva</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>12/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>185</Facturaid>
+    <Cliente>Adrian Huezo</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>13/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>186</Facturaid>
+    <Cliente>Walter Morales</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>14/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>187</Facturaid>
+    <Cliente>Ismael Murillo</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>15/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>188</Facturaid>
+    <Cliente>Donaris Mata</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>16/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>189</Facturaid>
+    <Cliente>Alba Vasquez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>17/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>190</Facturaid>
+    <Cliente>Maria Sarmiento</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>18/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:55 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>191</Facturaid>
+    <Cliente>Angel Garcia</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>19/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>192</Facturaid>
+    <Cliente>Patricia Avendaño</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>20/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>193</Facturaid>
+    <Cliente>Beatriz Vega</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>21/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>194</Facturaid>
+    <Cliente>Peter Muñoz</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>22/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>195</Facturaid>
+    <Cliente>Mara Espinoza</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>23/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>196</Facturaid>
+    <Cliente>Carolina Escolan</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>24/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>197</Facturaid>
+    <Cliente>Kevin Sánchez</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>25/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>198</Facturaid>
+    <Cliente>Pablo Torres</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>26/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>199</Facturaid>
+    <Cliente>Bernardo Jimenez</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>27/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>200</Facturaid>
+    <Cliente>Jessica Villalobos</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>28/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>201</Facturaid>
+    <Cliente>
+    </Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>29/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>Error</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>202</Facturaid>
+    <Cliente>Pablo Torres</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>30/09/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>203</Facturaid>
+    <Cliente>Bernardo Jimenez</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>01/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>204</Facturaid>
+    <Cliente>Jessica Villalobos</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>02/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>205</Facturaid>
+    <Cliente>Helen Herrera</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>03/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>206</Facturaid>
+    <Cliente>Monica Montes</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>04/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>207</Facturaid>
+    <Cliente>Jennifer Ramirez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>05/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>208</Facturaid>
+    <Cliente>Yubini Villalta</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>06/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>209</Facturaid>
+    <Cliente>Erick Diaz</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>07/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>210</Facturaid>
+    <Cliente>Julio Caceres</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>08/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>211</Facturaid>
+    <Cliente>Juan Sibrian</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>09/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>212</Facturaid>
+    <Cliente>Roberto Varela</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>10/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>213</Facturaid>
+    <Cliente>Jose Guevara</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>11/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>214</Facturaid>
+    <Cliente>Ricardo Dueñas</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>12/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>215</Facturaid>
+    <Cliente>Maria Zuniga</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>13/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>216</Facturaid>
+    <Cliente>Manuel Urrutia</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>14/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>217</Facturaid>
+    <Cliente>Jorge Villanueva</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>15/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>218</Facturaid>
+    <Cliente>Edwin Morales</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>16/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>219</Facturaid>
+    <Cliente>Milagro Elias</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>17/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>220</Facturaid>
+    <Cliente>Wendy Torres</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>18/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>221</Facturaid>
+    <Cliente>Liana Lainez</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>19/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>222</Facturaid>
+    <Cliente>Karla Mendez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>20/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>223</Facturaid>
+    <Cliente>Maritza Rivas</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>21/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>224</Facturaid>
+    <Cliente>Julia Leiva</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>22/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>225</Facturaid>
+    <Cliente>Fernando Huezo</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>23/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>226</Facturaid>
+    <Cliente>Walter Morales</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>24/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>227</Facturaid>
+    <Cliente>Javier Murillo</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>25/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>228</Facturaid>
+    <Cliente>Alexis Mata</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>26/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>229</Facturaid>
+    <Cliente>Yanira Vasquez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>27/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>230</Facturaid>
+    <Cliente>Ana Sarmiento</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>28/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>231</Facturaid>
+    <Cliente>Marielos Garcia</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>29/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>232</Facturaid>
+    <Cliente>Carolina Avendaño</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>30/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:56 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>233</Facturaid>
+    <Cliente>Jacqueline Vega</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>31/10/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>234</Facturaid>
+    <Cliente>Alberto Muñoz</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>01/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>235</Facturaid>
+    <Cliente>Mara Espinoza</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>02/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>236</Facturaid>
+    <Cliente>Oscar Quintanilla</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>03/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>237</Facturaid>
+    <Cliente>Lorena Mena</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>04/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>238</Facturaid>
+    <Cliente>Alfonso Guevara</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>05/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>239</Facturaid>
+    <Cliente>Rene Cordova</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>06/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>240</Facturaid>
+    <Cliente>Carolina Guillen</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>07/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>241</Facturaid>
+    <Cliente>Rogelio Rivas</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>08/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>242</Facturaid>
+    <Cliente>Celeste Echeverria</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>09/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>243</Facturaid>
+    <Cliente>Roberto Mendez</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>10/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>244</Facturaid>
+    <Cliente>Juan Zavaleta</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>11/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>245</Facturaid>
+    <Cliente>Eduardo Grajeda</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>12/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>246</Facturaid>
+    <Cliente>Daniel Carranza</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>13/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>247</Facturaid>
+    <Cliente>Diego Callejas</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>14/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>248</Facturaid>
+    <Cliente>Daniela Montalvo</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>15/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>249</Facturaid>
+    <Cliente>Elena Vanegas</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>16/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>250</Facturaid>
+    <Cliente>Karen Lopez</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>17/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>251</Facturaid>
+    <Cliente>Guillermo Deras</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>18/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>252</Facturaid>
+    <Cliente>Miguel Argueta</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>19/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>253</Facturaid>
+    <Cliente>Veronica Morales</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>20/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>254</Facturaid>
+    <Cliente>Pedro Tablas</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>21/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>255</Facturaid>
+    <Cliente>Alejandra Escolan</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>22/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>256</Facturaid>
+    <Cliente>Salvador Villalta</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>23/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>257</Facturaid>
+    <Cliente>Lidia Peña</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>24/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>258</Facturaid>
+    <Cliente>Iveth Diaz</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>25/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>259</Facturaid>
+    <Cliente>Virginia Escolan</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>26/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>260</Facturaid>
+    <Cliente>Melvin Sánchez</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>27/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>261</Facturaid>
+    <Cliente>Omar Torres</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>28/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>262</Facturaid>
+    <Cliente>Alexander Jimenez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>29/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>263</Facturaid>
+    <Cliente>Yanira Villalobos</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>30/11/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:57 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>264</Facturaid>
+    <Cliente>Mabel Herrera</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>01/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>265</Facturaid>
+    <Cliente>Yamileth Montes</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>02/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>266</Facturaid>
+    <Cliente>Veralis Ramirez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>03/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>267</Facturaid>
+    <Cliente>Moises Villalta</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>04/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>268</Facturaid>
+    <Cliente>David Diaz</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>05/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>269</Facturaid>
+    <Cliente>Alberto Caceres</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>06/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>270</Facturaid>
+    <Cliente>Jaime Sibrian</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>07/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>271</Facturaid>
+    <Cliente>Jovel Varela</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>08/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>272</Facturaid>
+    <Cliente>Angel Guevara</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>09/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>273</Facturaid>
+    <Cliente>Alfredo Dueñas</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>10/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>274</Facturaid>
+    <Cliente>Fernanda Zuniga</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>11/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>275</Facturaid>
+    <Cliente>Ricardo Urrutia</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>12/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>276</Facturaid>
+    <Cliente>Carlos Villanueva</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>13/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>277</Facturaid>
+    <Cliente>Juan Morales</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>14/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>278</Facturaid>
+    <Cliente>Solieth Elias</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>15/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>279</Facturaid>
+    <Cliente>Nohemy Torres</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>16/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>280</Facturaid>
+    <Cliente>Ruth Lainez</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>17/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>281</Facturaid>
+    <Cliente>yasmin Mendez</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>18/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>282</Facturaid>
+    <Cliente>Mylene Rivas</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>19/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>283</Facturaid>
+    <Cliente>Josefina Leiva</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>20/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>284</Facturaid>
+    <Cliente>Adrian Huezo</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>21/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>285</Facturaid>
+    <Cliente>Walter Morales</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>22/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>286</Facturaid>
+    <Cliente>Ismael Murillo</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>23/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>287</Facturaid>
+    <Cliente>Donaris Mata</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>24/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>288</Facturaid>
+    <Cliente>Alba Vasquez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>25/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>289</Facturaid>
+    <Cliente>Maria Sarmiento</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>26/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>290</Facturaid>
+    <Cliente>Angel Garcia</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>27/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>291</Facturaid>
+    <Cliente>Patricia Avendaño</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>28/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>292</Facturaid>
+    <Cliente>Beatriz Vega</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>29/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>293</Facturaid>
+    <Cliente>Peter Muñoz</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>30/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>294</Facturaid>
+    <Cliente>Mara Espinoza</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>31/12/2013 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>295</Facturaid>
+    <Cliente>Carolina Escolan</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>01/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>296</Facturaid>
+    <Cliente>Kevin Sánchez</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>02/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>297</Facturaid>
+    <Cliente>Pablo Torres</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>03/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>298</Facturaid>
+    <Cliente>Bernardo Jimenez</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>04/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>299</Facturaid>
+    <Cliente>Jessica Villalobos</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>05/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>300</Facturaid>
+    <Cliente>
+    </Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>06/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>Error</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>301</Facturaid>
+    <Cliente>Pablo Torres</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>07/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:58 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>302</Facturaid>
+    <Cliente>Bernardo Jimenez</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>08/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>303</Facturaid>
+    <Cliente>Jessica Villalobos</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>09/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>304</Facturaid>
+    <Cliente>Helen Herrera</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>10/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>305</Facturaid>
+    <Cliente>Monica Montes</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>11/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>306</Facturaid>
+    <Cliente>Jennifer Ramirez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>12/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>307</Facturaid>
+    <Cliente>Yubini Villalta</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>13/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>308</Facturaid>
+    <Cliente>Erick Diaz</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>14/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>309</Facturaid>
+    <Cliente>Julio Caceres</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>15/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>310</Facturaid>
+    <Cliente>Juan Sibrian</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>16/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>311</Facturaid>
+    <Cliente>Roberto Varela</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>17/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>312</Facturaid>
+    <Cliente>Jose Guevara</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>18/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>313</Facturaid>
+    <Cliente>Ricardo Dueñas</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>19/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>314</Facturaid>
+    <Cliente>Maria Zuniga</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>20/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>315</Facturaid>
+    <Cliente>Manuel Urrutia</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>21/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>316</Facturaid>
+    <Cliente>Jorge Villanueva</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>22/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>317</Facturaid>
+    <Cliente>Edwin Morales</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>23/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>318</Facturaid>
+    <Cliente>Milagro Elias</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>24/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>319</Facturaid>
+    <Cliente>Wendy Torres</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>25/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>320</Facturaid>
+    <Cliente>Liana Lainez</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>26/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>321</Facturaid>
+    <Cliente>Karla Mendez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>27/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>322</Facturaid>
+    <Cliente>Maritza Rivas</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>28/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>323</Facturaid>
+    <Cliente>Julia Leiva</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>29/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>324</Facturaid>
+    <Cliente>Fernando Huezo</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>30/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>325</Facturaid>
+    <Cliente>Walter Morales</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>31/01/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>326</Facturaid>
+    <Cliente>Javier Murillo</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>01/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>327</Facturaid>
+    <Cliente>Alexis Mata</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>02/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>328</Facturaid>
+    <Cliente>Yanira Vasquez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>03/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>329</Facturaid>
+    <Cliente>Ana Sarmiento</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>04/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>330</Facturaid>
+    <Cliente>Marielos Garcia</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>05/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>331</Facturaid>
+    <Cliente>Carolina Avendaño</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>06/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>332</Facturaid>
+    <Cliente>Jacqueline Vega</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>07/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>333</Facturaid>
+    <Cliente>Alberto Muñoz</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>08/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>334</Facturaid>
+    <Cliente>Mara Espinoza</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>09/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>335</Facturaid>
+    <Cliente>Oscar Quintanilla</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>10/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>336</Facturaid>
+    <Cliente>Lorena Mena</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>11/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>337</Facturaid>
+    <Cliente>Alfonso Guevara</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>12/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>338</Facturaid>
+    <Cliente>Rene Cordova</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>13/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>339</Facturaid>
+    <Cliente>Carolina Guillen</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>14/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>340</Facturaid>
+    <Cliente>Rogelio Rivas</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>15/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>341</Facturaid>
+    <Cliente>Celeste Echeverria</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>16/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>342</Facturaid>
+    <Cliente>Roberto Mendez</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>17/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>343</Facturaid>
+    <Cliente>Juan Zavaleta</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>18/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>344</Facturaid>
+    <Cliente>Eduardo Grajeda</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>19/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>345</Facturaid>
+    <Cliente>Daniel Carranza</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>20/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>346</Facturaid>
+    <Cliente>Diego Callejas</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>21/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>347</Facturaid>
+    <Cliente>Daniela Montalvo</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>22/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:49:59 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>348</Facturaid>
+    <Cliente>Elena Vanegas</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>23/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>349</Facturaid>
+    <Cliente>Karen Lopez</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>24/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>350</Facturaid>
+    <Cliente>Guillermo Deras</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>25/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>351</Facturaid>
+    <Cliente>Miguel Argueta</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>26/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>352</Facturaid>
+    <Cliente>Veronica Morales</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>27/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>353</Facturaid>
+    <Cliente>Pedro Tablas</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>28/02/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>354</Facturaid>
+    <Cliente>Alejandra Escolan</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>01/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>355</Facturaid>
+    <Cliente>Salvador Villalta</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>02/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>356</Facturaid>
+    <Cliente>Lidia Peña</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>03/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>357</Facturaid>
+    <Cliente>Iveth Diaz</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>04/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>358</Facturaid>
+    <Cliente>Virginia Escolan</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>05/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>359</Facturaid>
+    <Cliente>Melvin Sánchez</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>06/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>360</Facturaid>
+    <Cliente>Omar Torres</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>07/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>361</Facturaid>
+    <Cliente>Alexander Jimenez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>08/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>362</Facturaid>
+    <Cliente>Yanira Villalobos</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>09/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>363</Facturaid>
+    <Cliente>Mabel Herrera</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>10/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>364</Facturaid>
+    <Cliente>Yamileth Montes</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>11/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>365</Facturaid>
+    <Cliente>Veralis Ramirez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>12/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>366</Facturaid>
+    <Cliente>Moises Villalta</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>13/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>367</Facturaid>
+    <Cliente>David Diaz</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>14/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>368</Facturaid>
+    <Cliente>Alberto Caceres</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>15/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>369</Facturaid>
+    <Cliente>Jaime Sibrian</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>16/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>370</Facturaid>
+    <Cliente>Jovel Varela</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>17/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>371</Facturaid>
+    <Cliente>Angel Guevara</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>18/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>372</Facturaid>
+    <Cliente>Alfredo Dueñas</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>19/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>373</Facturaid>
+    <Cliente>Fernanda Zuniga</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>20/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>374</Facturaid>
+    <Cliente>Ricardo Urrutia</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>21/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>375</Facturaid>
+    <Cliente>Carlos Villanueva</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>22/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>376</Facturaid>
+    <Cliente>Juan Morales</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>23/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>377</Facturaid>
+    <Cliente>Solieth Elias</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>24/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>378</Facturaid>
+    <Cliente>Nohemy Torres</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>25/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>379</Facturaid>
+    <Cliente>Ruth Lainez</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>26/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>380</Facturaid>
+    <Cliente>yasmin Mendez</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>27/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>381</Facturaid>
+    <Cliente>Mylene Rivas</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>28/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>382</Facturaid>
+    <Cliente>Josefina Leiva</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>29/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>383</Facturaid>
+    <Cliente>Adrian Huezo</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>30/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>384</Facturaid>
+    <Cliente>Walter Morales</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>31/03/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>385</Facturaid>
+    <Cliente>Ismael Murillo</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>01/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>386</Facturaid>
+    <Cliente>Donaris Mata</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>02/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>387</Facturaid>
+    <Cliente>Alba Vasquez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>03/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>388</Facturaid>
+    <Cliente>Maria Sarmiento</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>04/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>389</Facturaid>
+    <Cliente>Angel Garcia</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>05/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>390</Facturaid>
+    <Cliente>Patricia Avendaño</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>06/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>391</Facturaid>
+    <Cliente>Beatriz Vega</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>07/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:00 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>392</Facturaid>
+    <Cliente>Peter Muñoz</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>08/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>393</Facturaid>
+    <Cliente>Mara Espinoza</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>09/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>394</Facturaid>
+    <Cliente>Carolina Escolan</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>10/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>395</Facturaid>
+    <Cliente>Kevin Sánchez</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>11/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>396</Facturaid>
+    <Cliente>Pablo Torres</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>12/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>397</Facturaid>
+    <Cliente>Bernardo Jimenez</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>13/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>398</Facturaid>
+    <Cliente>Jessica Villalobos</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>14/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>399</Facturaid>
+    <Cliente>
+    </Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>15/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>Error</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>400</Facturaid>
+    <Cliente>Pablo Torres</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>16/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>401</Facturaid>
+    <Cliente>Bernardo Jimenez</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>17/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>402</Facturaid>
+    <Cliente>Jessica Villalobos</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>18/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>403</Facturaid>
+    <Cliente>Helen Herrera</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>19/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>404</Facturaid>
+    <Cliente>Monica Montes</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>20/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>405</Facturaid>
+    <Cliente>Jennifer Ramirez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>21/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>406</Facturaid>
+    <Cliente>Yubini Villalta</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>22/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>407</Facturaid>
+    <Cliente>Erick Diaz</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>23/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>408</Facturaid>
+    <Cliente>Julio Caceres</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>24/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>409</Facturaid>
+    <Cliente>Juan Sibrian</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>25/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>410</Facturaid>
+    <Cliente>Roberto Varela</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>26/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>411</Facturaid>
+    <Cliente>Jose Guevara</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>27/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>412</Facturaid>
+    <Cliente>Ricardo Dueñas</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>28/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>413</Facturaid>
+    <Cliente>Maria Zuniga</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>29/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>414</Facturaid>
+    <Cliente>Manuel Urrutia</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>30/04/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>415</Facturaid>
+    <Cliente>Jorge Villanueva</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>01/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>416</Facturaid>
+    <Cliente>Edwin Morales</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>02/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>417</Facturaid>
+    <Cliente>Milagro Elias</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>03/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>418</Facturaid>
+    <Cliente>Wendy Torres</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>04/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>419</Facturaid>
+    <Cliente>Liana Lainez</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>05/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>420</Facturaid>
+    <Cliente>Karla Mendez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>06/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>421</Facturaid>
+    <Cliente>Maritza Rivas</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>07/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>422</Facturaid>
+    <Cliente>Julia Leiva</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>08/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>423</Facturaid>
+    <Cliente>Fernando Huezo</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>09/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>424</Facturaid>
+    <Cliente>Walter Morales</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>10/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>425</Facturaid>
+    <Cliente>Javier Murillo</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>11/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>426</Facturaid>
+    <Cliente>Alexis Mata</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>12/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>427</Facturaid>
+    <Cliente>Yanira Vasquez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>13/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>428</Facturaid>
+    <Cliente>Ana Sarmiento</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>14/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>429</Facturaid>
+    <Cliente>Marielos Garcia</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>15/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>430</Facturaid>
+    <Cliente>Carolina Avendaño</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>16/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>431</Facturaid>
+    <Cliente>Jacqueline Vega</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>17/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>432</Facturaid>
+    <Cliente>Alberto Muñoz</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>18/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>433</Facturaid>
+    <Cliente>Mara Espinoza</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>19/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>434</Facturaid>
+    <Cliente>Oscar Quintanilla</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>20/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>435</Facturaid>
+    <Cliente>Lorena Mena</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>21/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:01 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>436</Facturaid>
+    <Cliente>Alfonso Guevara</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>22/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>437</Facturaid>
+    <Cliente>Rene Cordova</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>23/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>438</Facturaid>
+    <Cliente>Carolina Guillen</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>24/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>439</Facturaid>
+    <Cliente>Rogelio Rivas</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>25/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>440</Facturaid>
+    <Cliente>Celeste Echeverria</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>26/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>441</Facturaid>
+    <Cliente>Roberto Mendez</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>27/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>442</Facturaid>
+    <Cliente>Juan Zavaleta</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>28/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>443</Facturaid>
+    <Cliente>Eduardo Grajeda</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>29/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>444</Facturaid>
+    <Cliente>Daniel Carranza</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>30/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>445</Facturaid>
+    <Cliente>Diego Callejas</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>31/05/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>446</Facturaid>
+    <Cliente>Daniela Montalvo</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>01/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>447</Facturaid>
+    <Cliente>Elena Vanegas</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>02/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>448</Facturaid>
+    <Cliente>Karen Lopez</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>03/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>449</Facturaid>
+    <Cliente>Guillermo Deras</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>04/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>450</Facturaid>
+    <Cliente>Miguel Argueta</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>05/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>451</Facturaid>
+    <Cliente>Veronica Morales</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>06/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>452</Facturaid>
+    <Cliente>Pedro Tablas</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>07/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>453</Facturaid>
+    <Cliente>Alejandra Escolan</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>08/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>454</Facturaid>
+    <Cliente>Salvador Villalta</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>09/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>455</Facturaid>
+    <Cliente>Lidia Peña</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>10/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>456</Facturaid>
+    <Cliente>Iveth Diaz</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>11/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>457</Facturaid>
+    <Cliente>Virginia Escolan</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>12/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>458</Facturaid>
+    <Cliente>Melvin Sánchez</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>13/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>459</Facturaid>
+    <Cliente>Omar Torres</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>14/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>460</Facturaid>
+    <Cliente>Alexander Jimenez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>15/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>461</Facturaid>
+    <Cliente>Yanira Villalobos</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>16/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>462</Facturaid>
+    <Cliente>Mabel Herrera</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>17/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>463</Facturaid>
+    <Cliente>Yamileth Montes</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>18/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>464</Facturaid>
+    <Cliente>Veralis Ramirez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>19/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>465</Facturaid>
+    <Cliente>Moises Villalta</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>20/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>466</Facturaid>
+    <Cliente>David Diaz</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>21/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:02 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>467</Facturaid>
+    <Cliente>Alberto Caceres</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>22/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>468</Facturaid>
+    <Cliente>Jaime Sibrian</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>23/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>469</Facturaid>
+    <Cliente>Jovel Varela</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>24/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>470</Facturaid>
+    <Cliente>Angel Guevara</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>25/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>471</Facturaid>
+    <Cliente>Alfredo Dueñas</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>26/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>472</Facturaid>
+    <Cliente>Fernanda Zuniga</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>27/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>473</Facturaid>
+    <Cliente>Ricardo Urrutia</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>28/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>474</Facturaid>
+    <Cliente>Carlos Villanueva</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>29/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>475</Facturaid>
+    <Cliente>Juan Morales</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>30/06/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>476</Facturaid>
+    <Cliente>Solieth Elias</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>01/07/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>477</Facturaid>
+    <Cliente>Nohemy Torres</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>02/07/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>478</Facturaid>
+    <Cliente>Ruth Lainez</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>03/07/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>479</Facturaid>
+    <Cliente>yasmin Mendez</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>04/07/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>480</Facturaid>
+    <Cliente>Mylene Rivas</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>05/07/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>481</Facturaid>
+    <Cliente>Josefina Leiva</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>06/07/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>482</Facturaid>
+    <Cliente>Adrian Huezo</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>07/07/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>483</Facturaid>
+    <Cliente>Walter Morales</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>08/07/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>484</Facturaid>
+    <Cliente>Ismael Murillo</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>09/07/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>485</Facturaid>
+    <Cliente>Donaris Mata</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>10/07/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>486</Facturaid>
+    <Cliente>Alba Vasquez</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>11/07/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>487</Facturaid>
+    <Cliente>Maria Sarmiento</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>12/07/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>488</Facturaid>
+    <Cliente>Angel Garcia</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>13/07/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>489</Facturaid>
+    <Cliente>Patricia Avendaño</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>14/07/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>490</Facturaid>
+    <Cliente>Beatriz Vega</Cliente>
+    <NombreLibro>germinal</NombreLibro>
+    <Fecha>15/07/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>491</Facturaid>
+    <Cliente>Peter Muñoz</Cliente>
+    <NombreLibro>Oliver Twisat</NombreLibro>
+    <Fecha>16/07/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>492</Facturaid>
+    <Cliente>Mara Espinoza</Cliente>
+    <NombreLibro>Cumbres Borreascosas</NombreLibro>
+    <Fecha>17/07/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>493</Facturaid>
+    <Cliente>Carolina Escolan</Cliente>
+    <NombreLibro>Madame Bovary</NombreLibro>
+    <Fecha>18/07/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+    <Facturaid>494</Facturaid>
+    <Cliente>Kevin Sánchez</Cliente>
+    <NombreLibro>Nopbelas ejemplares</NombreLibro>
+    <Fecha>19/07/2014 12:00:00 a.m.</Fecha>
+    <Hora>21:50:03 p.m.</Hora>
+    <Host>ANITA-PC</Host>
+    <Usuario>rosy</Usuario>
+    <Exito>insertado</Exito>
+    <Origen>.csv</Origen>
+    <NombreArchivo>ventas.csv</NombreArchivo>
+  </detalle>
+</factura>
